@@ -5,6 +5,8 @@ iOS application with live pokemon go map
   <img src="https://github.com/ruffnecktsk/pokemap_live_ios/blob/master/0x0ss.jpg" width="300"/>
 </p>
 
+DO NOT UPLOAD THIS APP TO APPSTORE! 
+
 How to install on your device (non-jailbreak):
 
 1. Clone repository
@@ -40,4 +42,5 @@ Inspired by [AHAAAAAAA](https://github.com/AHAAAAAAA/PokemonGo-Map/)
 Thanks for protobuf files to [AeonLucid](https://github.com/AeonLucid/POGOProtos)
 
 If you like it, please don't remove ad block:)
-Paypal - ruffnecktsk@gmail.com
+
+Paypal for donate - ruffnecktsk@gmail.com
